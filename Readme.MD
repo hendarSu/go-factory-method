@@ -1,5 +1,7 @@
 #Conceptual Example
+
 ####Reference : https://refactoring.guru/design-patterns/factory-method/go/example 
+
 It’s impossible to implement the classic Factory Method pattern in Go due to lack of OOP features such as classes and inheritance. However, we can still implement the basic version of the pattern, the Simple Factory.
 
 In this example, we’re going to build various types of weapons using a factory struct.
